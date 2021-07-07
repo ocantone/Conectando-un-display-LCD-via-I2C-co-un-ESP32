@@ -1,4 +1,5 @@
 # Conectando-un-display-LCD-via-I2C-con-un-ESP32
-![image of ESP32 driving a LCD via I2C bus](https://raw.githubusercontent.com/ocantone/Espressif-ESP32-LCD-I2C-Example/master/Esp32LCDI2C.jpg)
 Conexión de un display via I2C a un ESP32. 
+![ESP32 Web Server](https://raw.githubusercontent.com/ocantone/ESP32-Relay-LCD-Display-I2C/master/ESP32WebServer.png)
+![ESP32 Web Server](https://raw.githubusercontent.com/ocantone/en-ESP32-web-server-on-off-control-lcd-display-driving/master/ESP32WebServer/ESP32WebServer_bb.png)
 
